@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Brendon, eu sou da cidade de Juiz de Fora, MG, Brasil.<br>Desde o começo de 2024 comecei minha jornada na programação e estou sempre a procura de oportunidades para ampliar meus conhecimentos na tecnologia, assim como disposto a ajudar qualquer um que tenha interesse na área.</p>
+<p align="left">Meu nome é Brendon, eu sou do Brasil.<br>Comecei recentemente minha jornada na programação e estou sempre a procura de oportunidades para ampliar meus conhecimentos na tecnologia, assim como disposto a ajudar qualquer um que tenha interesse na área.</p>
 
 ###
 
