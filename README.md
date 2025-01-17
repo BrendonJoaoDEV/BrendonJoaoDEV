@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Atualmente um programador Python voltado para análise de dados.<br>📚 No momento estou estudando JavaScript, HTML5, CSS3.<br>🎯 Meu objetivo é fundar uma empresa de desenvolvimento de software.<br>🎲 Também quero me tornar influenciador na área da tecnologia.</p>
+<p align="left">✨ Atualmente um programador Python voltado para análise de dados.<br>📚 No momento estou estudando as bibliotecas SQLite3, Pandas e NumPy.<br>🎯 Meu objetivo é fundar uma empresa de desenvolvimento de software.<br>🎲 Também quero me tornar influenciador na área da tecnologia.</p>
 
 ###
 
@@ -19,30 +19,23 @@
 ###
 
 <div align="left">
-  <img src="/tecnologias/python.png" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="/tecnologias/sql.png" height="40" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="/tecnologias/sqlite.png" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="/tecnologias/mysql.png" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="/tecnologias/workbench.png" height="40" alt="workbanch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="/tecnologias/phpmyadmin.png" height="40" alt="phpmyadmin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="/tecnologias/xampp.png" height="40" alt="xampp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="/tecnologias/linux.png" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="/tecnologias/vscode.png" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="/tecnologias/pycharm.png" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="/tecnologias/git.png" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="/tecnologias/github.png" height="40" alt="github logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
@@ -85,4 +78,3 @@
 </div>
 
 ###
-
