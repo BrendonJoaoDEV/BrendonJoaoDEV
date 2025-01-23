@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Atualmente um programador Python voltado para análise de dados.<br>📚 No momento estou estudando as bibliotecas SQLite3, Pandas e Plotly.<br>🎯 Meu objetivo é fundar uma empresa de desenvolvimento de software.<br>🎲 Também quero me tornar influenciador na área da tecnologia.</p>
+<p align="left">✨ Atualmente um programador Python voltado para análise de dados.<br>📚 No momento estou estudando HTML5 e CSS3.<br>🎯 Meu objetivo é fundar uma empresa de desenvolvimento de software.<br>🎲 Também quero me tornar influenciador na área da tecnologia.</p>
 
 ###
 
