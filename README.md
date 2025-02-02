@@ -1,8 +1,8 @@
-<h1 align="left">Olá 👋 como você está?</h1>
+<h1 align="left">Olá meu nome é Brendon e...</h1>
 
 ###
 
-<p align="left">Meu nome é Brendon, eu sou do Brasil.<br>Comecei recentemente minha jornada na programação e estou sempre a procura de oportunidades para ampliar meus conhecimentos na tecnologia, assim como disposto a ajudar qualquer um que tenha interesse na área.</p>
+<p align="left">Comecei recentemente minha jornada na programação e estou sempre a procura de oportunidades para ampliar meus conhecimentos na tecnologia, assim como disposto a ajudar qualquer um que tenha interesse na área.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Atualmente um programador Python voltado para análise de dados.<br>📚 No momento estou estudando HTML5 e CSS3.<br>🎯 Meu objetivo é fundar uma empresa de desenvolvimento de software.<br>🎲 Também quero me tornar influenciador na área da tecnologia.</p>
+<p align="left">✨ Atualmente um programador Python voltado para análise de dados.<br>📚 No momento estou estudando HTML5 e CSS3.<br>🎯 Meu objetivo é fundar uma empresa de desenvolvimento de software.<br>🎲 Também quero me tornar criador de conteúdo de tecnologia.</p>
 
 ###
 
@@ -61,10 +61,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="Logo LinkedIN"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="Logo Discord"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="50" alt="Logo Youtube"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="Logo Instagram"  />
+  <a href="https://www.linkedin.com/in/brendon-jo%C3%A3o-campos-neves-ba99a5324/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="Logo LinkedIN"  /></a>
+  <a href="https://www.youtube.com/@Brendondev" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="50" alt="Logo Youtube"  /></a>
+  <a href="https://www.instagram.com/brendonjoaodev/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="50" alt="Logo Instagram"  /></a>
+  <a href="https://www.threads.net/@brendonjoaodev" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/c5e662cab52e4a02a7a45557d0e0071286f6f094/icons/threads.svg" width="50" height="50" alt="Logo Threads"></a>
+  <a href="https://x.com/brendonjoaodev" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/c5e662cab52e4a02a7a45557d0e0071286f6f094/icons/x.svg" width="50" height="50" alt="Logo X"></a>
+  <a href="" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="50" alt="Logo Discord"  /></a>
 </div>
 
 ###
