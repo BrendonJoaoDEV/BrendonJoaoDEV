@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Atualmente um programador Python voltado para análise de dados.<br>📚 No momento estou estudando HTML5 e CSS3.<br>🎯 Meu objetivo é fundar uma empresa de desenvolvimento de software e me tornar professor na área de TI.<br>🎲 Também quero me tornar criador de conteúdo de tecnologia.</p>
+<p align="left">✨ Atualmente um programador WEB e Python voltado para análise de dados.<br>📚 No momento estou estudando JavaScript e Flask.<br>🎯 Meu objetivo é fundar uma empresa de desenvolvimento de software e me tornar professor na área de TI.<br>🎲 Também quero me tornar criador de conteúdo de tecnologia.</p>
 
 ###
 
@@ -20,6 +20,9 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" height="50" width="50" alt="Logo Python">
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg"
+height="50" width="50" alt="Logo JavaScript"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" height="50" width="50" alt="Logo HTML5">
   <img width="12"/>
@@ -31,7 +34,7 @@
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" height="50" width="50" alt="Logo Git">
   <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" height="50" width="50" alt="">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" height="50" width="50" alt="GitHub">
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" height="50" width="50" alt="Logo Linux">
   <img width="12"/>
