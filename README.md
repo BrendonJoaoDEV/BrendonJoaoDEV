@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Atualmente um programador WEB e Python voltado para análise de dados.<br>📚 No momento estou estudando JavaScript e Flask.<br>🎯 Meu objetivo é fundar uma empresa de desenvolvimento de software e me tornar professor na área de TI.<br>🎲 Também quero me tornar criador de conteúdo de tecnologia.</p>
+<p align="left">✨ Atualmente um programador WEB e Python voltado para análise de dados.<br>📚 No momento estou estudando JavaScript e Django.<br>🎯 Meu objetivo é fundar uma empresa de desenvolvimento de software e me tornar professor na área de TI.<br>🎲 Também quero me tornar criador de conteúdo de tecnologia.</p>
 
 ###
 
